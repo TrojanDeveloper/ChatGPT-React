@@ -1,1 +1,1 @@
-this is chatgpt-react project
+This is ChatGPT-React project.
